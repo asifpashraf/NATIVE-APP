@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a49b8d4-d15e-4e4d-bdb4-e3e50196516d"
+      }
+    },
+    "owner": "asifpashraf"
   }
 }
