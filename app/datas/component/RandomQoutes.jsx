@@ -17,7 +17,7 @@ const RandomQuotes = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to the World of Quotes</Text>
+      <Text style={styles.title}> World of Quotes</Text>
       <View style={styles.quoteContainer}>
         <Text style={styles.quoteText}>{motivation}</Text>
         <Text style={styles.authorText}>- {author}</Text>
